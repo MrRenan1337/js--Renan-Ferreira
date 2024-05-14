@@ -1,6 +1,6 @@
 # *Boas vindas ao meu perfil*  🤓🤓🤓
 
-*Meu nome é nome sobrenome*
+*Meu nome é Renan Ferreira Alves*
 
 *Estou estudando na Alura*
 
